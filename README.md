@@ -120,15 +120,7 @@ Job application analytics dashboard with NLP-based resume parsing.
 
 ### 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kirtikour&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirtikour&layout=compact&theme=tokyonight&hide_border=true" width="38%"/>
-
-<img src="https://streak-stats.demolab.com/?user=kirtikour&theme=tokyonight&hide_border=true" width="60%"/>
-
-</div>
-
+![snake animation](https://raw.githubusercontent.com/kirtikour/kirtikour/output/github-contribution-grid-snake.svg)
 ---
 
 <div align="center">
